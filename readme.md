@@ -17,5 +17,4 @@ The solution is based on the **backtracking** approach:
 - Recursively solve the rest of the board
 - Backtrack if no valid digit can be placed
 
-## File Structure
 
